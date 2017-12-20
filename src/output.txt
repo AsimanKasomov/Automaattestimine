@@ -1,0 +1,8 @@
+Tallinn: 7.17
+Helsinki: 7.17
+New York: 7.17
+Tokyo: 7.17
+Tallinn: 6.18 degrees.
+Helsinki: 6.18 degrees.
+New York: 6.18 degrees.
+Tokyo: 6.18 degrees.
